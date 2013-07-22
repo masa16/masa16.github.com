@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[masa16's Blog]]></title>
+  <link href="http://masa16.github.io/atom.xml" rel="self"/>
+  <link href="http://masa16.github.io/"/>
+  <updated>2013-07-22T15:15:04+09:00</updated>
+  <id>http://masa16.github.io/</id>
+  <author>
+    <name><![CDATA[Masahiro TANAKA]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[最初のポスト]]></title>
+    <link href="http://masa16.github.io/blog/2013/07/22/first-post/"/>
+    <updated>2013-07-22T15:12:00+09:00</updated>
+    <id>http://masa16.github.io/blog/2013/07/22/first-post</id>
+    <content type="html"><![CDATA[<p>ブログ始めましたよろ</p>
+
+<pre><code>  #include &lt;stdio.h&gt;
+</code></pre>
+
+<ul>
+<li>todo</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
